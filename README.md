@@ -8,7 +8,7 @@
 > 
 > Our shell shall be called `hsh`.
 ## Introduction
-This repository is a ALX Holberton School Project. The school project consisted in writing a shell like `sh` (Bourne Shell) by Stephen Bourne , in `C`, using a limited number of standard library functions, so instead we used our own function that we rewrited over the past three month [Here.](https://github.com/TosinISOGUN/alx-low_level_programming)
+This repository is a ALX Holberton School Project. The school project consisted in writing a shell like `sh` (Bourne Shell) by Stephen Bourne , in `C`, using a limited number of standard library functions, so instead we used our own function that we rewrited over the past three month [Here.](https://github.com/Omafuru/alx-low_level_programming)
 
 The goal in this project is to make us understand how a shell works.
 - To single out some core topics which includes;
@@ -215,7 +215,7 @@ $
 
 ## AUTHORS
 
-### 🤵🏼 Olaoluwa ISOGUN
+### 🤵🏼 Christian Freeman Balogun
 - [GitHub](https://github.com/Highlandfury)
 - [LinkedIn](https://www.linkedin.com/in/christian-balogun-1947141b4)
 
